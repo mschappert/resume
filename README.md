@@ -10,3 +10,12 @@
     - GIS Certificate 
 - Clark University [Link](https://www.clarku.edu/)
     - PhD Student, Geography
+
+## Research Interests
+- landscape ecology
+- landscape patterns & metrics
+- scale of effect
+- habitat fragmentation
+- conservation
+- biodiversity
+- GIS
