@@ -9,6 +9,4 @@
     - MA Geography
     - GIS Certificate 
 - Clark University [Link](https://www.clarku.edu/)
-    - PhD Student, Geography# resume
-# resume
-# resume
+    - PhD Student, Geography
